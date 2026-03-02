@@ -7,14 +7,14 @@
 
 ### 🌟 About Me
 
-- 🔬 Building and optimizing **LLMs, RAG pipelines, and AI-powered search systems**
-- 🌱 Exploring **V-JEPA** 👀 — because the future might not be text-only
+- 🔬 Building and optimizing **end-to-end LLM applications and AI-powered search systems**
+- 🌱 Exploring **multimodal LLMs(vision+language)** 👀 — because the future might not be text-only
 - 👯 Open to collaborating on **AI/ML systems, RAG applications, LLM tooling, and full-stack AI projects**
 - 🤝 Focused on **RAG optimization, evaluation strategies, and production-scale deployments**
 
 📫 **Reach me at:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-siva-adina)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryrasvbradina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-adina)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryra.adina1@gmail.com)
 
 
 
